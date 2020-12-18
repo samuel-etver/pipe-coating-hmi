@@ -1,4 +1,4 @@
-package pipeshielding;
+package pipecoating;
 
 import java.awt.*;
 
@@ -8,7 +8,7 @@ public class Global {
   public static final String VERSION = "1.0.3";
   public static final String RELEASE_DATE = "2003-08-24";
   
-  public static String CFG_FILE_NAME = "pipeshielding.config";
+  public static String CFG_FILE_NAME = "pipecoating.config";
   
   private static final String KEY_THICKNESS_DEVICE_PORT = "thicknessDevicePort";
   private static final String KEY_TEMPERATURE_DEVICE_PORT = "temperatureDevicePort";

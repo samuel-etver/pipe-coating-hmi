@@ -1,4 +1,4 @@
-package pipeshielding;
+package pipecoating;
 
 import java.awt.Color;
 import java.awt.Graphics;

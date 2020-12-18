@@ -1,4 +1,4 @@
-package pipeshielding;
+package pipecoating;
 
 import java.awt.Component;
 import java.awt.Container;

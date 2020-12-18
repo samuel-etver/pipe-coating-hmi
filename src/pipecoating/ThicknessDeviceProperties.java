@@ -1,4 +1,4 @@
-package pipeshielding;
+package pipecoating;
 
 public class ThicknessDeviceProperties {
   public static final int DEVICE_ID = 0x015f;

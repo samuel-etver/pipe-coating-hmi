@@ -1,6 +1,6 @@
-package pipeshielding;
+package pipecoating;
 
-public class PipeShielding {    
+public class PipeCoating {    
   public static void main(String args[]) {
     Global.load();
     new MainFrame().show();
