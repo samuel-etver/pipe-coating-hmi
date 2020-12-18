@@ -6,7 +6,7 @@ Ancient project of 2003 year. Developed with jdk-1.4. Rebuilt and checked with n
 
 Pipe coating HMI on pipe plant.<br>
 
-![](screenshots/image1.jpg)
+![](screenshots/image1.png)
 
 ## Used tools
 
